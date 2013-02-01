@@ -1,5 +1,5 @@
 newbienationtttserverdls
 ========================
-Open Blockhead and Billy Mays and put the files into garrysmod/garrysmod/models
+Put models and sound into garrysmod/garrysmod
 
 NewbieNationTTT Downloads
